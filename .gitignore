@@ -1,0 +1,43 @@
+## Compilação .NET
+bin/
+obj/
+out/
+Debug/
+Release/
+
+## Visual Studio / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+## Logs e temporários
+*.log
+*.tmp
+*.temp
+Thumbs.db
+
+## NuGet
+**/packages/*
+!**/packages/build/
+
+## Testes/coverage
+TestResult.xml
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+## Azure/Publish
+PublishScripts/
+*.pubxml
+*.publishproj
+
+## Artifacts comuns
+artifacts/
+
+## ASP.NET (opcional)
+appsettings.Development.json
+appsettings.Local.json
