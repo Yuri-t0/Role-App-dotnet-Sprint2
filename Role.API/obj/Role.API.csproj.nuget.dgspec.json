@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.API\\Role.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.API\\Role.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.API\\Role.API.csproj",
+        "projectName": "Role.API",
+        "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.API\\Role.API.csproj",
+        "packagesPath": "C:\\Users\\Cilane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cilane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Application\\Role.Application.csproj": {
+                "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Application\\Role.Application.csproj"
+              },
+              "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj"
+              },
+              "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Infrastructure\\Role.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Infrastructure\\Role.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Application\\Role.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Application\\Role.Application.csproj",
+        "projectName": "Role.Application",
+        "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Application\\Role.Application.csproj",
+        "packagesPath": "C:\\Users\\Cilane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cilane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj",
+        "projectName": "Role.Domain",
+        "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj",
+        "packagesPath": "C:\\Users\\Cilane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cilane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Infrastructure\\Role.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Infrastructure\\Role.Infrastructure.csproj",
+        "projectName": "Role.Infrastructure",
+        "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Infrastructure\\Role.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Cilane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cilane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cilane\\Downloads\\Role-App-dotnet-Sprint2\\Role.Domain\\Role.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\bin\Debug\net8.0\Role.Infrastructure.deps.json
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\bin\Debug\net8.0\Role.Infrastructure.dll
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\bin\Debug\net8.0\Role.Infrastructure.pdb
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\bin\Debug\net8.0\Role.Domain.dll
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\bin\Debug\net8.0\Role.Domain.pdb
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.AssemblyInfo.cs
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Inf.DC403CAC.Up2Date
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.dll
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\refint\Role.Infrastructure.dll
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\Role.Infrastructure.pdb
+C:\Users\Cilane\Downloads\Role-App-dotnet-Sprint2\Role.Infrastructure\obj\Debug\net8.0\ref\Role.Infrastructure.dll
